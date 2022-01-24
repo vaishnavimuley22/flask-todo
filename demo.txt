@@ -1,0 +1,1 @@
+Trying out automatic semantic version update using commitizen 
